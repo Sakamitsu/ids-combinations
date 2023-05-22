@@ -1,0 +1,15 @@
+[
+{"id": "休", "children" : ["亻", "木"]},
+{"id": "亻", "children" : ["丿", "丨"]},
+{"id": "木", "children" : ["十","八"]},
+{"id": "十", "children" : ["一","丨"]},
+{"id": "八", "children" : ["丿","乀"]},
+{"id": "体", "children" : ["亻", "本"]},
+{"id": "丿", "children" : null},
+{"id": "丨", "children" : null},
+{"id": "一", "children" : null},
+{"id": "乀", "children" : null},
+{"id": "林", "children" : ["木", "木"]},
+{"id": "森", "children" : ["木", "木","木"]},
+{"id": "本", "children" : ["木", "一"]}
+]
